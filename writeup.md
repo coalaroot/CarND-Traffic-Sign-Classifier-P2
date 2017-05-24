@@ -43,9 +43,12 @@ I tried different normalization techniques but I got the best results with
 x - x.mean())/x.std()
 Here is an example of one traffic sign form every category image before and after normalization.
 
-**After**
+## After
+
 ![alt text][image2]
-**Before**
+
+## Before
+
 ![alt text][image3]
 
 I also thought about grayscaling but after couple minutes searching on the internet I found out that it's not such a good idea.
